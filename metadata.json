@@ -1,0 +1,6 @@
+{
+  "name": "CalcMate",
+  "description": "High-precision natural textbook mathematical workstation featuring advanced graphing, calculus solvers, matrices, statistics, base-N, and quantum mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
